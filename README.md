@@ -18,12 +18,12 @@ Visit [https://www.cogniswitch.ai/developer](https://www.cogniswitch.ai/develope
 
 ## Customize your own cogniswitch tool
 
-- In order to use the cogniswitch toolspec you need to get the "llamaswitch" folder from the repository and put it in the same directory as this notebook and import the tool as shown in the notebook.
+- In order to use the cogniswitch toolspec you need to get the "llamaswitch" folder from the repository and put it in the same directory as notebook and import the tool as shown in the notebook.
 
 **Use the example notebook to try the cogniswitch tool from [here](https://github.com/CogniSwitch/LlamaSwitch/blob/main/notebooks/CogniswitchToolSpec_source.ipynb)**
 
 ## Customize your own cogniswitch query engine
 
-- In order to use the cogniswitch query engine you need to get the "llamaswitch" folder from the repository and put it in the same directory as this notebook and import the query engine as shown in the notebook.
+- In order to use the cogniswitch query engine you need to get the "llamaswitch" folder from the repository and put it in the same directory as notebook and import the query engine as shown in the notebook.
 
 **Use the example notebook to try the cogniswitch query engine from [here](https://github.com/CogniSwitch/LlamaSwitch/blob/main/notebooks/CogniswitchQueryEngine_source.ipynb)**
