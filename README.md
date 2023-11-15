@@ -9,6 +9,7 @@ Visit [https://www.cogniswitch.ai/developer](https://www.cogniswitch.ai/develope
 
 **Step 2: Cogniswitch Store data:**
 - Use store_data function in the toolspec and input your file or url. 
+- Currently we support PDF(.pdf), Word(.docx, .doc), text(.txt), HTML(.html) file formats. (more formats are coming)
 - It will be processed and stored in your knowledge store. 
 - You can check the status of document processing in cogniswitch console. 
 
