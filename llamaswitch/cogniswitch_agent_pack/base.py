@@ -4,7 +4,7 @@ from llama_index.agent import ReActAgent
 from llama_index.llama_pack.base import BaseLlamaPack
 
 
-class CogniswitchAgentPack(BaseLlamaPack):
+class CogniswitchAgent(BaseLlamaPack):
     def __init__(self, cogniswitch_tool_kwargs: Dict[str, Any]) -> None:
         """Init params."""
         try:

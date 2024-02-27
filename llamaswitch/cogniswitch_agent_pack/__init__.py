@@ -1,3 +1,3 @@
-from llama_hub.llama_packs.cogniswitch_agent.base import CogniswitchAgentPack
+from llama_hub.llama_packs.cogniswitch_agent.base import CogniswitchAgent
 
-__all__ = ["CogniswitchAgentPack"]
+__all__ = ["CogniswitchAgent"]
